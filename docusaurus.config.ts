@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Stangerup Cloud Documentation',
-  tagline: 'All the neccesary information in one place',
+  tagline: 'All your information in one place',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -34,6 +34,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -58,9 +59,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Stangerup Cloud',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Stangerup Cloud',
         src: 'img/logo.svg',
       },
       items: [
@@ -68,60 +69,20 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs',
+          label: 'Gitea',
           position: 'right',
         },
       ],
     },
     footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      style: 'light',
+
+      copyright: `Copyright © ${new Date().getFullYear()} Stangerup Cloud`,
     },
     prism: {
       theme: prismThemes.github,
