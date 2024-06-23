@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Stangerup Cloud Documentation',
-  tagline: 'Get your cloud setup in order',
+  tagline: 'All the neccesary information in one place',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
