@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Stangerup Cloud Documentation',
+  tagline: 'Get your cloud setup in order',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
