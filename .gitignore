@@ -9,6 +9,9 @@
 .cache-loader
 
 # Misc
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
 .env.local
 .env.development.local
