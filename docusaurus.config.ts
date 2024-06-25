@@ -39,14 +39,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/docs/',
+            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/blog/',
+            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
