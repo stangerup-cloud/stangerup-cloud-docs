@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: '', // Usually your GitHub org/user name.
+  projectName: '', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -88,6 +88,7 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    /*
     algolia: {
       // The application ID provided by Algolia
       appId: 'YOUR_APP_ID',
@@ -119,7 +120,9 @@ const config: Config = {
       insights: false,
 
       //... other Algolia params
+      
     },
+    */
   } satisfies Preset.ThemeConfig,
 };
 
