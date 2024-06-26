@@ -1,17 +1,5 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+christian:
+  name: Christian Stangerup
+  title: Administrator of Stangerup Cloud
+  url: https://code.westerkam.org/christian
+  image_url: https://0.gravatar.com/avatar/02c56da38b0fd258db1d525397cceb4dc08ccea249b9dcca36f6d07daaed59cc?size=512
