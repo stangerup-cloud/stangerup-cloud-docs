@@ -43,6 +43,8 @@ const config: Config = {
         },
         blog: {
           routeBasePath: 'news',
+          blogTitle: 'News',
+          blogDescription: 'Stangerup Cloud Docs News',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -74,9 +76,20 @@ const config: Config = {
         },
         { to: '/news', label: 'News', position: 'left' },
         {
-          href: 'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs',
-          label: 'Gitea',
+          href: 'https://console.stangerup.cloud',
+          label: 'Cloud Console',
           position: 'right',
+        },
+        {
+          href: 'https://status.stangerup.cloud',
+          label: 'System Status',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/stangerup-cloud/stangerup-cloud-docs',
+          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
