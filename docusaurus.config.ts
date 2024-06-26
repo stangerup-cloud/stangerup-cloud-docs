@@ -102,15 +102,15 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    /*
+
     algolia: {
       // The application ID provided by Algolia
-      appId: 'YOUR_APP_ID',
+      appId: 'G6KSM2T20L',
 
       // Public API key: it is safe to commit it
-      apiKey: 'YOUR_SEARCH_API_KEY',
+      apiKey: 'e45eb17bb5b19db60ef55a75ef04934f',
 
-      indexName: 'YOUR_INDEX_NAME',
+      indexName: 'learn-stangerup',
 
       // Optional: see doc section below
       contextualSearch: true,
@@ -134,9 +134,7 @@ const config: Config = {
       insights: false,
 
       //... other Algolia params
-      
     },
-    */
   } satisfies Preset.ThemeConfig,
 };
 
