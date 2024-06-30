@@ -1,3 +1,3 @@
 # User Guide
 
-Some instructions here...
+Some instructions here.
