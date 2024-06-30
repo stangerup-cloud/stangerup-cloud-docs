@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # User Guide
 
-Some instructions here.
+As a client, there are several key principles you ought to know of when using Stangerup Cloud.
