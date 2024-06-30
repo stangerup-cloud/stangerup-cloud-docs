@@ -42,9 +42,9 @@ const config: Config = {
             'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
         },
         blog: {
-          routeBasePath: 'news',
-          blogTitle: 'News',
-          blogDescription: 'Stangerup Cloud Documentation News',
+          routeBasePath: 'changelog',
+          blogTitle: 'Changelog',
+          blogDescription: 'Stangerup Cloud Changelog',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
