@@ -74,7 +74,7 @@ const config: Config = {
           position: 'left',
           label: 'Documentation',
         },
-        { to: '/news', label: 'News', position: 'left' },
+        { to: '/changelog', label: 'Changelog', position: 'left' },
         {
           href: 'https://console.stangerup.cloud',
           label: 'Cloud Console',
