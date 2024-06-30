@@ -44,7 +44,7 @@ const config: Config = {
         blog: {
           routeBasePath: 'news',
           blogTitle: 'News',
-          blogDescription: 'Stangerup Cloud Docs News',
+          blogDescription: 'Stangerup Cloud Documentation News',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
