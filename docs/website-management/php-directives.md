@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # PHP Directives
 
-By default, the following PHP directives are enabled on your website estate.
+By default, the following PHP directives are enabled on your website estates.
 
 ```php
 display_errors (Inherited) = DISABLED
