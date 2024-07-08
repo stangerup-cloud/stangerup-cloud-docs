@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Status Page
+# System Status
 
-The [Status Page](https://status.stangerup.cloud) provides you with uptime statistics and an overview of the infrastructure surrounding Stangerup Cloud. This includes server locations in both the EU and the US.
+The [System Status](https://status.stangerup.cloud) provides you with uptime statistics and an overview of the infrastructure surrounding Stangerup Cloud. This includes server locations in both the EU and the US.
 
 :::warning
 
