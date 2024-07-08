@@ -38,8 +38,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
+          //editUrl:
+          //  'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
         },
         blog: {
           routeBasePath: 'changelog',
@@ -48,8 +48,8 @@ const config: Config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
+          //editUrl:
+          //  'https://code.westerkam.org/stangerup-cloud/stangerup-cloud-docs/src/branch/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
