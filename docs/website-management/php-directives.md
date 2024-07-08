@@ -13,9 +13,14 @@ max_execution_time (Inherited) = 300
 max_input_time (Inherited) = 60
 max_input_vars (Inherited) = 5000
 memory_limit (Inherited) = 256M
-opcache.enable = 1
 post_max_size (Inherited) = 100M
 upload_max_filesize (Inherited) = 100M
+```
+
+Depending on whether OPcache is enabled, the below directive will also be active.
+
+```php
+opcache.enable = 1
 ```
 
 Please note that these settings are optimized towards fast and efficient WordPress and WooCommerce performance. While you're free to modify them at your own discretion, remember that they count towards the total resource usage for your hosting package.
