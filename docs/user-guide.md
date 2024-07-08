@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# User guide
+# User Guide
 
 As a client, there are several key principles you ought to know of when using [Stangerup Cloud](https://www.stangerup.cloud). In order to ensure a long and flourishing relationship, we've established this documentation source, available for reference at any time.
 
