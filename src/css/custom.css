@@ -29,6 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/*
 .header-github-link::before {
   content: '';
   width: 24px;
@@ -43,3 +44,4 @@
 .header-github-link:hover::before {
   background-color: var(--ifm-navbar-link-hover-color);
 }
+*/

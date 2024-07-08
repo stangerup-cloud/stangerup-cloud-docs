@@ -8,6 +8,6 @@ The [System Status](https://status.stangerup.cloud) provides you with uptime sta
 
 :::warning
 
-If you're unable to access parts of our infrastructure, the Status Page is the first place you should check for any downtime. While we aim to prevent downtime at all cost, we also believe it's important to be transparent with our clients in those situations.
+If you're unable to access parts of our infrastructure, the System Status is the first place you should check for any downtime. While we aim to prevent downtime at all cost, we also believe it's important to be transparent with our clients in those situations.
 
 :::
