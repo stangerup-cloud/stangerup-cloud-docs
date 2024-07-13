@@ -64,7 +64,11 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/stangerupcloud-high-resolution-logo.png',
     navbar: {
-      title: 'Stangerup Cloud',
+      //title: 'Stangerup Cloud',
+      logo: {
+        alt: 'Stangerup Cloud',
+        src: 'img/stangerupcloud-high-resolution-logo-transparent.png',
+      },
       items: [
         {
           type: 'docSidebar',
