@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # User Guide
 
-As a client, there are several key principles you ought to know of when using [Stangerup Cloud](https://www.stangerup.cloud). In order to promote a long and flourishing relationship, we've established this learning resource, which is available for reference at any time.
+## Introduction
+
+As a client, there are several key principles you should know of when using [Stangerup Cloud](https://www.stangerup.cloud). In order to promote a long and flourishing relationship, we've established this learning resource, which is available for your reference at any time.
 
 Here, you can find information about all our services, and thus, uncover how to optimize your experience with us. Please, let us know if anything's missing and we'll get it sorted right away.
 
@@ -14,4 +16,10 @@ Make sure to check the documentation before contacting us. This way, you can res
 
 :::
 
-Ready to get started? Please navigate using the menu to the left or using the boxes below.
+## Navigation
+
+Ready to get started?
+
+You can navigate using the sidebar to the left or using the boxes in the bottom of the page. We recommend you start from the beginning and scout your way through sections you find relevant.
+
+It's also possible to search using `CTRL + K` (on Windows) or `CMD + K` (on macOS) at any time. This may be preferrable if you're looking for something specific.
