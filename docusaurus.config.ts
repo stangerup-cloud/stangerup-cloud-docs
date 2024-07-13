@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Stangerup Cloud Documentation',
-  tagline: 'All your information in one place',
-  favicon: 'img/favicon.ico',
+  tagline: 'All your information in one place.',
+  favicon: 'img/stangerupcloud-128x128.ico',
 
   // Set the production url of your site here
   url: 'https://learn.stangerup.cloud',
@@ -62,13 +62,9 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/stangerupcloud-high-resolution-logo.png',
     navbar: {
       title: 'Stangerup Cloud',
-      logo: {
-        alt: 'Stangerup Cloud',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           type: 'docSidebar',
