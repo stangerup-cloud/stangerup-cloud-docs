@@ -18,8 +18,6 @@ Make sure to check the documentation before contacting us. This way, you can res
 
 ## Navigation
 
-Ready to get started?
-
-You can navigate using the sidebar to the left or using the boxes in the bottom of the page. We recommend you start from the beginning and scout your way through sections you find relevant.
+Ready to get started? You can navigate using the sidebar to the left or using the boxes in the bottom of the page. We recommend you start from the beginning and scout your way through sections you find relevant.
 
 It's also possible to search using `CTRL + K` (on Windows) or `CMD + K` (on macOS) at any time. This may be preferrable if you're looking for something specific.
