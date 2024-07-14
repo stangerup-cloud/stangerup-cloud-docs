@@ -97,7 +97,13 @@ const config: Config = {
     },
     footer: {
       style: 'light',
-
+      logo: {
+        alt: 'Stangerup Cloud',
+        src: 'img/stangerupcloud-icon-only.png',
+        href: 'https://www.stangerup.cloud',
+        height: 32,
+        width: 32,
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Stangerup Cloud`,
     },
     prism: {
