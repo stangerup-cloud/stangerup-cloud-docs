@@ -1,6 +1,6 @@
 ---
 title: We are working on updates
-authors: [christian]
+authors: [stangerup-cloud]
 tags: [updates]
 ---
 

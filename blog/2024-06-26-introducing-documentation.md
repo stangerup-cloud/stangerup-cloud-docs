@@ -4,7 +4,7 @@ authors: [christian]
 tags: [releases]
 ---
 
-Today, we are happy to announce the introduction of Stangerup Cloud Documentation.
+Today, I am happy to announce the introduction of Stangerup Cloud Documentation.
 
 Here, you will be able to learn everything about Stangerup Cloud and its infrastructure. This resource is a crucial step towards empowering our relationship with our customers.
 
