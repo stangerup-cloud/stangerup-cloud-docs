@@ -1,7 +1,7 @@
 ---
-title: We are working on updates
+title: Important updates in the making
 authors: [stangerup-cloud]
-tags: [updates]
+tags: [product-updates]
 ---
 
 We are contiously working on new updates to Stangerup Cloud Documentation. In the coming weeks, you may discover newly added sections in the documentation.

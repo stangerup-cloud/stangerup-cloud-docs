@@ -2,7 +2,7 @@ releases:
   label: Releases
   permalink: /releases
   description: New releases of Stangerup Cloud Documentation
-updates:
-  label: Updates
-  permalink: /updates
-  description: New updates regarding Stangerup Cloud Documentation
+product-updates:
+  label: Product updates
+  permalink: /product-updates
+  description: New product updates from Stangerup Cloud
