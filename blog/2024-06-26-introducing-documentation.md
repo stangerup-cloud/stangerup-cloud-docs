@@ -1,10 +1,10 @@
 ---
-title: Introducing Stangerup Cloud Documentation
+title: Introducing Stangerup Cloud documentation
 authors: [christian]
 tags: [releases]
 ---
 
-Today, I am happy to announce the introduction of Stangerup Cloud Documentation.
+Today, I am happy to announce the introduction of Stangerup Cloud documentation.
 
 <!-- truncate -->
 
