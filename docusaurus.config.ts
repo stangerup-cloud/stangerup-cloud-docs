@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Stangerup Cloud Documentation',
+  title: 'Stangerup Cloud documentation',
   tagline: 'All your information in one place.',
   favicon: 'img/stangerupcloud-128x128.ico',
 
@@ -46,7 +46,7 @@ const config: Config = {
         blog: {
           routeBasePath: 'changelog',
           blogTitle: 'Changelog',
-          blogDescription: 'Stangerup Cloud Changelog',
+          blogDescription: 'Stangerup Cloud changelog',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -79,12 +79,12 @@ const config: Config = {
         { to: '/changelog', label: 'Changelog', position: 'left' },
         {
           href: 'https://console.stangerup.cloud',
-          label: 'Cloud Console',
+          label: 'Cloud console',
           position: 'right',
         },
         {
           href: 'https://status.stangerup.cloud',
-          label: 'System Status',
+          label: 'System status',
           position: 'right',
         },
         //{
@@ -97,14 +97,8 @@ const config: Config = {
     },
     footer: {
       style: 'light',
-      logo: {
-        alt: 'Stangerup Cloud',
-        src: 'img/stangerupcloud-icon-only.png',
-        href: 'https://www.stangerup.cloud',
-        height: 32,
-        width: 32,
-      },
-      copyright: `Copyright © ${new Date().getFullYear()} Stangerup Cloud`,
+
+      copyright: `Copyright © ${new Date().getFullYear()} Stangerup Cloud. A venture by <a href="https://www.stangerup.net" target="_blank">Stangerup Web Solutions</a>. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,

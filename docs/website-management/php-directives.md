@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# PHP Directives
+# PHP directives
 
 By default, the following PHP directives are enabled on your website estates.
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# User Guide
+# User guide
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Make sure to check the documentation before contacting us. This way, you can res
 
 :::
 
-## Navigation
+## Site navigation
 
 Ready to get started? You can navigate using the sidebar to the left or using the boxes in the bottom of the page. We recommend you start from the beginning and scout your way through sections you find relevant.
 

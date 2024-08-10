@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# Roundcube Webmail
+# Roundcube webmail
 
 We provide integrated webmail for all our clients via Roundcube.
