@@ -7,18 +7,20 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2a4494;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary-dark: #263d85;
+  --ifm-color-primary-darker: #243a7e;
+  --ifm-color-primary-darkest: #1d3068;
+  --ifm-color-primary-light: #2e4ba3;
+  --ifm-color-primary-lighter: #304eaa;
+  --ifm-color-primary-lightest: #3758c0;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
   --navbar-logo-image: url('/img/stangerupcloud-high-resolution-logo-transparent.png');
-  --footer-logo-image: url('/img/stangerupcloud-icon-only.png');
+  /* --footer-logo-image: url('/img/stangerupcloud-icon-only.png'); */
   /* --logo-image-mobile: url('/img/stangerupcloud-no-icon.png'); */
+
+  --ifm-footer-background-color: #ffffff;
 
   --ifm-font-family-base: 'Noto Sans', sans-serif;
 }
@@ -26,16 +28,16 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #44cfcb;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary-dark: #33c5c1;
+  --ifm-color-primary-darker: #30bab6;
+  --ifm-color-primary-darkest: #279996;
+  --ifm-color-primary-light: #5ad5d1;
+  --ifm-color-primary-lighter: #65d7d4;
+  --ifm-color-primary-lightest: #86e0dd;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
   --navbar-logo-image: url('/img/stangerupcloud-high-resolution-logo-white-transparent.png');
-  --footer-logo-image: url('/img/stangerupcloud-icon-only-white.png');
+  /* --footer-logo-image: url('/img/stangerupcloud-icon-only-white.png'); */
   /* --logo-image-mobile: url('/img/stangerupcloud-no-icon-white.png'); */
 
   --ifm-footer-background-color: #242526;
@@ -45,9 +47,15 @@
   content: var(--navbar-logo-image);
 }
 
+[data-theme='light'] .footer {
+  border-top: 1px solid #dadde1;
+}
+
+/*
 .footer__logo {
   content: var(--footer-logo-image);
 }
+*/
 
 /*
 @media (max-width: 768px) {
