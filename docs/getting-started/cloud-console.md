@@ -71,15 +71,11 @@ Currently, there are two integrations available, but more may come in the future
 
 The Cloudflare integration allows for automatic synchronization of DNS records between Stangerup Cloud and Cloudflare. This provides a seamless experience if you prefer to take advantage of Cloudflare's edge network while managing the DNS records themselves directly from your website estates with us.
 
+You will need to generate an API token using Cloudflare's default DNS template for access.
+
 :::danger
 
 Upon activation, any records configured directly on Cloudflare will be lost. The zones on Stangerup Cloud will take precedence.
-
-:::
-
-:::info
-
-You will need to generate an API token using Cloudflare's default DNS template for access.
 
 :::
 

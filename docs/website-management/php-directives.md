@@ -25,9 +25,9 @@ opcache.enable = 1
 
 ## How PHP restrictions work
 
-Please note that the settings above are optimized towards fast and efficient WordPress and WooCommerce performance. While you are free to modify them at your own discretion, remember that they count towards the total resource usage for your hosting package.
+Please note that the settings above are optimized towards fast and efficient WordPress and WooCommerce performance. While you are free to modify them at your own discretion, remember that they count towards the total resource usage for the given package subscription.
 
-For example, a `memory_limit` set too low could result in issues, but so could too high a value as the site would be pulling resources inefficiently and possibly make your other websites stall unneccesarily.
+For example, a `memory_limit` set too low could result in issues, but so could too high a value as the site would be pulling resources inefficiently and possibly make your other resources stall unneccesarily.
 
 :::tip
 
