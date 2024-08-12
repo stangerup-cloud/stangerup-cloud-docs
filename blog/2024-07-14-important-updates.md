@@ -1,5 +1,6 @@
 ---
 title: Important updates in the making
+slug: important-updates-in-the-making
 authors: [stangerup-cloud]
 tags: [product-updates]
 ---

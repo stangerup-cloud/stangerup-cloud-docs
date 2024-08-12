@@ -1,5 +1,6 @@
 ---
 title: Introducing Stangerup Cloud documentation
+slug: introducing-stangerup-cloud-documentation
 authors: [christian]
 tags: [releases]
 ---
