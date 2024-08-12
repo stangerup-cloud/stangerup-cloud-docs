@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Stangerup Cloud documentation',
+  title: 'Stangerup Cloud Documentation',
   tagline: 'All your information in one place.',
   favicon: 'img/stangerupcloud-128x128.ico',
 
@@ -46,7 +46,7 @@ const config: Config = {
         blog: {
           routeBasePath: 'changelog',
           blogTitle: 'Changelog',
-          blogDescription: 'Stangerup Cloud changelog',
+          blogDescription: 'Stangerup Cloud Changelog',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
