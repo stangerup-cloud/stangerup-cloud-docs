@@ -51,6 +51,14 @@
   border-top: 1px solid #dadde1;
 }
 
+img {
+  border-radius: 6.4px;
+}
+
+[data-theme='light'] img {
+  border: 1px solid #dadde1;
+}
+
 /*
 .footer__logo {
   content: var(--footer-logo-image);
