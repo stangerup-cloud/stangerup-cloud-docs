@@ -5,4 +5,4 @@ Mirrored to GitHub for deployment via Cloudflare Pages.
 Starts the development server.
 
 `npm run build`
-Bundles your website into static files for production.
+Bundles the website into static files for production.
